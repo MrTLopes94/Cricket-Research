@@ -10,4 +10,4 @@ My research aimed to investigate the cognitive and physical cost of batting at d
 
 The batting code can be used to reduce ball-by-ball innings data, allowing the development of new batting simulations which meet specific identified criteria of interest. 
 
-Elite Batters performed both the high strike rate (Hundred.mp4) and low strike rate (Fifty.mp4) innings in an indoor batting arena. Limited cognitive and physical responses to these simulations are shown here "SomeData.html" analysed and produced from Rmarkdown. 
+Elite Batters performed both the high strike rate (HUNDRED.mp4) and low strike rate (FIFTY.mp4) innings in an indoor batting arena. Limited cognitive and physical responses to these simulations are shown here "Exploratory Analysis.html" analysed and produced from Rmarkdown. 
