@@ -11,14 +11,14 @@ library(ggplot2)
 ##%######################################################%##
 
 
-Data <- readr::read_delim("/Users/DrGoble/Documents/R Studio/ipl_csv_male/335982.csv", # Imports a single CSV file  that you want to analyse **REMEMBER TO CHANGE PATH**
+Data <- readr::read_delim("/Users/ ... ", # Obtain CSV from cricsheet.org; Import a single CSV file  that you want to analyse **REMEMBER TO CHANGE PATH**
                           delim = ";",
                           col_names = FALSE) 
 View(Data)
 DataSlICE <- Data[-c(1:20),] # Removes the first 20 rows
 View(DataSlICE)
 
-write.xlsx(DataSlICE, '/Users/DrGoble/Documents/R Studio/BatSlice.xlsx', # Exports the new to your desired location **REMEMBER TO SELECT PATH**
+write.xlsx(DataSlICE, '/Users/ ... ', # Exports the new to your desired location **REMEMBER TO SELECT PATH**
            col.names = FALSE, row.names = FALSE, append = FALSE)
 
 ##%######################################################%##
