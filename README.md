@@ -1,5 +1,4 @@
 # Cricket-Research
-https://zenodo.org/badge/latestdoi/261445156
 Data and code to investigate cricket innings.
 
 The data compiled here allows you to investigate every individual innings produced by specialist batters (Top 7 batters) from 2006-2018
@@ -12,3 +11,5 @@ My research aimed to investigate the cognitive and physical cost of batting at d
 Batters performed both the high strike rate (Supp.Material.B.mp4) and low strike rate (Supp.Material.A.mp4) innings in an indoor batting arena. 
 
 https://zenodo.org/badge/DOI/10.5281/zenodo.4740316.svg
+
+https://zenodo.org/badge/latestdoi/261445156
