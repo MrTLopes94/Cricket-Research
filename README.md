@@ -1,4 +1,6 @@
 # Cricket-Research
+https://zenodo.org/badge/DOI/10.5281/zenodo.4740316.svg
+
 Data and code to investigate cricket innings.
 
 The data compiled here allows you to investigate every individual innings produced by specialist batters (Top 7 batters) from 2006-2018
