@@ -1,13 +1,11 @@
 # Cricket-Research
 Data and code to investigate cricket innings.
 
-The data compiled here allows you to investigate every individual innings produced by specialist batters from 2006-2018
-during international competition and the Indian Premier League (IPL).
+The data compiled here allows you to investigate every individual innings produced by specialist batters (Top 7 batters) from 2006-2018
+during international competition (T20i.csv), the Indian Premier League (IPL - IPLTOP7v2.csv) or combined (T20TOP7.csv).
 
-Individual innings summaries are compiled in two csv's to allow for retrospective analysis
+The batting code can be used to reduce ball-by-ball innings data (cricsheet.org), allowing the development of new batting simulations which meet specific identified criteria of interest. 
 
 My research aimed to investigate the cognitive and physical cost of batting at different strike rates. Thus, we developed two simulations which mimic the natural progression of run scoring during a high and low strike rate innings with equal time spent at the crease.  
-
-The batting code can be used to reduce ball-by-ball innings data, allowing the development of new batting simulations which meet specific identified criteria of interest. 
 
 Batters performed both the high strike rate (Supp.Material.B.mp4) and low strike rate (Supp.Material.A.mp4) innings in an indoor batting arena. 
